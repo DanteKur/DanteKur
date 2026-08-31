@@ -1,4 +1,5 @@
-<img width="673" height="600" alt="gugukrex" src="https://github.com/user-attachments/assets/ab4b5ce6-a8dc-41a4-b39b-ec665bebaf92" />
+<img width="166" height="189" alt="Снимок экрана 2026-08-31 172857" src="https://github.com/user-attachments/assets/d3c15608-5741-45ba-94fc-6fe744f68bed" />
+fatty things
 
 <!--
 **DanteKur/DanteKur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
